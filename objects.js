@@ -1,5 +1,5 @@
 // JS OBJECTS
-<!--Make an object that represents a dog called myDog w/c contains the properties name (a string), legs, tails and friends -->
+// Make an object that represents a dog called myDog w/c contains the properties name (a string), legs, tails and friends
 
 const myDog = {
     name: "Georgie",
